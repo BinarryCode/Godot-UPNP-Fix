@@ -1,4 +1,7 @@
 # Godot-UPNP-Fix
+
+Repository is outdated, the new one is linked here: https://codeberg.org/BinaryCode/Godot-UPNP-Fix
+
 A very simple application to automatically set up UPNP. <br>
 If this does not work, try using this (I would probably recommend using this anyways): <br>
 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-tools/2949857-port-forwarder-1-1-upnp
